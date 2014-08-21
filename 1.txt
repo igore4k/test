@@ -11,5 +11,9 @@ testx
 dfg
 d
 fg
+<<<<<<< HEAD
 dfg
 >>>>>>> sfsd
+=======
+dfgsdfsdfsdf
+>>>>>>> sdfsdf
