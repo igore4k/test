@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 111111
-=======
-123sdfsdfsdf
->>>>>>> parent of 87eecd5... last2
 =======
 123sdfsdfsdf
 >>>>>>> parent of 87eecd5... last2
