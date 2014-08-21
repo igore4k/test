@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 11111
-=======
-<<<<<<< HEAD
-111111
-=======
-123sdfsdfsdf
->>>>>>> parent of 87eecd5... last2
->>>>>>> parent of 6b58e9d... 4attempt
